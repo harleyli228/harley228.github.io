@@ -23,13 +23,19 @@ I am a PhD student in Finance at the University of Melbourne. I hold a Master of
 # 📝 Publications 
 
 - **Y. Li**, J. Sun, L. Zhu (2023). *Ethnic Elements in Chinese Cosmetic Brands: An Exploration of Digital Communication Effects on the Recognition of Chinese National Identity*. **Telematics and Informatics Reports**, 2023(10).  
-  <span class='pub-date'>2023-06-01</span> <span class='show_paper_citations' data='B2UiIyEAAAAJ:u-x6o8ySG0sC'></span>
+  <span class='pub-date'>2023-06-01</span>
+  <span class='show_paper_citations' data='B2UiIyEAAAAJ:u-x6o8ySG0sC'></span>
+
+  </div>
+</div>
  
 
 - Y. Xiang, T. Li, **Y. Li** *(co-first author)* (2022). *Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Address*. **IEEE International Conference on Big Data (BigData 2022)**.  
-  <span class='pub-date'>2022-12-17</span> <span class='show_paper_citations' data='B2UiIyEAAAAJ:u5HHmVD_uO8C'></span>
+  <span class='pub-date'>2022-12-17</span>
+  <span class='show_paper_citations' data='B2UiIyEAAAAJ:u5HHmVD_uO8C'></span>
 
-
+  </div>
+</div>
 
 
 # 📖 Educations
