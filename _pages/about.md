@@ -1,9 +1,11 @@
 ---
+---
+layout: home            # ← 关键：没有它会走默认布局，头像就变成 /profile.png
 permalink: /
-title: ""
+title: "Yuquan Li"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
