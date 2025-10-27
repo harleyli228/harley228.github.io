@@ -1,6 +1,6 @@
 ---
 ---
-layout: home            # ← 关键：没有它会走默认布局，头像就变成 /profile.png
+layout: home            
 permalink: /
 title: "Yuquan Li"
 excerpt: ""
