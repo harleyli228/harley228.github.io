@@ -13,7 +13,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
+![Me](https://harleyli228.github.io/images/profile.png)
 <span class='anchor' id='about-me'></span>
 
 I am a PhD student in Finance at the University of Melbourne. I hold a Master of Journalism and Communication from Shanghai Jiao Tong University and a Master of Management Studies from the University of Southern California. My previous research spans cultural economics, media, and emerging financial technologies. I have published in Telematics and Informatics Reports and presented my work on cryptocurrency market dynamics at the IEEE International Conference on Big Data. 
