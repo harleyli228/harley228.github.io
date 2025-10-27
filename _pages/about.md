@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="{{ '/images/profile.png' | relative_url }}" alt="me" width="220">
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
