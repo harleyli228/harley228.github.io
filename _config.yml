@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuquan Li"
-description              : "PhD student in Finance at the University of Melbourne."
+description              : "PhD student in Finance"
 repository               : "harley228.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -40,7 +40,7 @@ author:
   github           : # e.g., "github username"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/yuquandtheworld/"
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yuquan-li-0228/"
