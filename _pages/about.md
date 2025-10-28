@@ -1,4 +1,5 @@
 --
+layout: home
 permalink: /
 title: "Yuquan Li"
 excerpt: ""
