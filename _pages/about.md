@@ -1,10 +1,9 @@
 ---
-layout: home            
 permalink: /
-title: "Yuquan Li"
+title: ""
 excerpt: ""
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
