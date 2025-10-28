@@ -33,7 +33,7 @@ I am a PhD student in Finance at the University of Melbourne. I hold a Master of
  
 
 # 📖 Educations
-- *2025.07 - 2030 (now)*, Phd student, Uniiversity of Melbourne,Department of Finance 
+- *2025.07 - now*, Phd student, University of Melbourne,Department of Finance 
 - *2021.08 - 2022.06*, Master of Management Studies, University of Southern California, Marshall Business School
 - *2020.09 - 2024.03*  Master of Journalism and Communication, Shanghai Jiao Tong University, ICCI
 - *2016.08 - 2020.06*  Bachelor of Economics majoring in Finance, Shanghai University, School of Economics
