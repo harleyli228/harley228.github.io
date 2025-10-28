@@ -1,5 +1,4 @@
----
-layout: home
+--
 permalink: /
 title: "Yuquan Li"
 excerpt: ""
@@ -17,7 +16,8 @@ redirect_from:
 <img src="{{ '/images/profile.png' | relative_url }}" alt="Me" width="220">
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student in Finance at the University of Melbourne. I hold a Master of Journalism and Communication from Shanghai Jiao Tong University and a Master of Management Studies from the University of Southern California. My previous research spans cultural economics, media, and emerging financial technologies. I have published in Telematics and Informatics Reports and presented my work on cryptocurrency market dynamics at the IEEE International Conference on Big Data. 
+I am a PhD student in Finance at the University of Melbourne. I hold a Master of Journalism and Communication from Shanghai Jiao Tong University and a Master of Management Studies from the University of Southern California. My previous research spans culture, social media, and emerging financial technologies. 
+In my free time, I enjoy art and music; I play a little guitar and piano, and I also sketch and paint.
 
 
 # 📝 Publications 
